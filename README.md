@@ -1,6 +1,5 @@
 # Summary
 
-🎯 Lead Software Engineer & Cloud/DevOps/AI Engineer  
 📌 Focused on highload systems, cloud-native infrastructure, and AI-powered backend solutions  
 💻 Java / Kotlin / Go / Python | AWS / Azure | Docker / K8s | CI/CD | Terraform  
 🎙️ Open to consulting, team coaching, and solution architecture
